@@ -89,7 +89,7 @@ const Index = () => (
             link="https://drone-hub.herokuapp.com/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            An Airbnb clone that lets users users rent drones from each other instead of houses. Built from scratch to practice Ruby on Rails. [Open Beta]
+            An Airbnb clone that lets users rent drones from each other instead of houses. Built from scratch to practice Ruby on Rails. [Open Beta]
           </ProjectCard>
           <ProjectCard
             title="Cocktail Buddy"
