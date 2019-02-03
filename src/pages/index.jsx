@@ -124,7 +124,7 @@ const Index = () => (
         <Footer>
           Made with{' '}
           <a href="https://www.gatsbyjs.org/">GatsbyJS</a> -
-          <a href="https://github.com/DylanLalonde/gatsby-starter-portfolio-cara"> Github Repository</a>
+          <a href="https://github.com/DylanLalonde/portfolio-gatsbyjs"> Github Repository</a>
         </Footer>
       </Contact>
     </Parallax>
