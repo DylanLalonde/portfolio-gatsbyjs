@@ -89,14 +89,14 @@ const Index = () => (
             link="https://drone-hub.herokuapp.com/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            An Airbnb clone that lets users rent drones from each other instead of houses. Built from scratch to practice Ruby on Rails. [Open Beta]
+            An Airbnb clone that lets users rent drones from each other instead of houses. Built from scratch to practice Ruby on Rails. [Open Beta - Freely hosted in europe with Heroku]
           </ProjectCard>
           <ProjectCard
             title="Cocktail Buddy"
             link="https://boiling-crag-91521.herokuapp.com/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            A simple ruby on rails application that lets users share cocktail recipes with each other. [Open Beta]
+            A simple ruby on rails application that lets users share cocktail recipes with each other. [Open Beta - Freely hosted in europe with Heroku]
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
