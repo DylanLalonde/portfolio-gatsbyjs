@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Dylan Lalonde.
         </BigTitle>
-        <Subtitle>a social entrepreneur and junior software engineer</Subtitle>
+        <Subtitle>an as of yet failed social entrepreneur who is passionately learning software engineering</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -75,14 +75,14 @@ const Index = () => (
             link="https://goodtravel.app"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            A PWA for booking tourism services and distributing the commissions into the local community. [Closed to public]
+            A PWA for booking tourism services and distributing the commissions into the local community. [Prototype complete, Invite-only Beta]
           </ProjectCard>
           <ProjectCard
             title="BEACHWALK"
             link="https://beachwalkcr.com"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            A website that showcases the BeachWalk vacation rental project in Costa Rica. Built from scratch with Ruby on Rails. [Launching soon]
+            A website that showcases the BeachWalk vacation rental project in Costa Rica. Built from scratch with Ruby on Rails. [Launching February]
           </ProjectCard>
           <ProjectCard
             title="DroneHUB"
