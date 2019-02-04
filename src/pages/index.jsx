@@ -79,7 +79,7 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="BEACHWALK"
-            link="https://beachwalkcr.com"
+            link="http://beachwalk.herokuapp.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             A website that showcases the BeachWalk vacation rental project in Costa Rica. Built from scratch with Ruby on Rails. [Launching February]
